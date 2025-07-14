@@ -1,0 +1,14 @@
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\bin\Debug\net8.0\Solitario.exe
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\bin\Debug\net8.0\Solitario.deps.json
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\bin\Debug\net8.0\Solitario.runtimeconfig.json
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\bin\Debug\net8.0\Solitario.dll
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\bin\Debug\net8.0\Solitario.pdb
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.GeneratedMSBuildEditorConfig.editorconfig
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.AssemblyInfoInputs.cache
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.AssemblyInfo.cs
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.csproj.CoreCompileInputs.cache
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.dll
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\refint\Solitario.dll
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.pdb
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\Solitario.genruntimeconfig.cache
+F:\Zium\Progetti in corso\Progetti miei\Programmi\C#\Progetti concorso ps5\solitario fatto da me\Solitario\Solitario\obj\Debug\net8.0\ref\Solitario.dll
